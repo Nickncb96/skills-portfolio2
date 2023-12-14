@@ -55,7 +55,7 @@ I've customised the styling to create a visually appealing and responsive layout
 I appreciate the guidance provided in the initial HTML and CSS starter code. This project has allowed me to apply and strengthen my skills in flexbox, media queries, and CSS variables.												
 										
 
-Deployment url:
+Deployment url:https://nickncb96.github.io/skills-portfolio2/
 Github repo ure: https://github.com/Nickncb96/skills-portfolio2.git
 												
 										
